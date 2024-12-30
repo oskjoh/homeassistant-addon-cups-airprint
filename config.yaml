@@ -1,6 +1,6 @@
 name: CUPS
 version: "1.5"
-slug: cupsik
+slug: cupsik_alt
 description: A CUPS print server with working AirPrint
 arch:
   - amd64
