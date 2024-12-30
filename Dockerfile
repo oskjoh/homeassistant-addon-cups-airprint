@@ -10,7 +10,6 @@ RUN apt-get update \
         sudo \
         locales \
         cups \
-        avahi-daemon \
         libnss-mdns \
         dbus \
         colord \
